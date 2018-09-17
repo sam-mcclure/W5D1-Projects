@@ -1,0 +1,16 @@
+.sections {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.sections ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 5px;
+}
+
+.sections ul li {
+  margin-right: 25px;
+}
