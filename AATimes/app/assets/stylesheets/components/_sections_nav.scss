@@ -2,6 +2,9 @@
   display: flex;
   align-items: center;
   justify-content: space-around;
+  border-bottom: 1px solid $light-gray;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 .sections ul {
@@ -13,4 +16,13 @@
 
 .sections ul li {
   margin-right: 25px;
+}
+
+.sections a:hover {
+  text-decoration: none;
+  background-color: $light-gray;
+}
+.last a:hover {
+  text-decoration: underline;
+  background-color: transparent;
 }

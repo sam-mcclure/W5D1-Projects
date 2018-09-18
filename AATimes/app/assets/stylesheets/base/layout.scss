@@ -12,13 +12,17 @@ body {
   font-size: 12px;
 }
 
+.hidden {
+  display: none;
+}
+
 button {
 	background-color: $dark-blue;
 	border-color: $lightest-gray;
 	color: white;
 	font-weight: bold;
-	padding: 5px;
-	border-radius: 5px;
+	padding: 6.5px;
+	border-radius: 3px;
 	transition: all .5s;
 	font-family: $sans-serif;
 	text-transform: uppercase;

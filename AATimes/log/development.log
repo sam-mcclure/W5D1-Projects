@@ -1828,3 +1828,900 @@ Completed 200 OK in 43ms (Views: 39.3ms | ActiveRecord: 0.0ms)
 
 
 Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 15:46:11 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225423586" for ::1 at 2018-09-17 16:03:43 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225423587" for ::1 at 2018-09-17 16:03:43 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225427449" for ::1 at 2018-09-17 16:03:47 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225427451" for ::1 at 2018-09-17 16:03:47 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225434617" for ::1 at 2018-09-17 16:03:54 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225434619" for ::1 at 2018-09-17 16:03:54 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225435626" for ::1 at 2018-09-17 16:03:55 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225435627" for ::1 at 2018-09-17 16:03:55 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225440142" for ::1 at 2018-09-17 16:04:00 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225440142&livereload=1537225440142" for ::1 at 2018-09-17 16:04:00 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225460345&livereload=1537225440142" for ::1 at 2018-09-17 16:04:20 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225460346&livereload=1537225440142" for ::1 at 2018-09-17 16:04:20 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225469093&livereload=1537225440142" for ::1 at 2018-09-17 16:04:29 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225469094&livereload=1537225440142" for ::1 at 2018-09-17 16:04:29 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225501432&livereload=1537225440142" for ::1 at 2018-09-17 16:05:01 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225501434&livereload=1537225440142" for ::1 at 2018-09-17 16:05:01 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225511630&livereload=1537225440142" for ::1 at 2018-09-17 16:05:11 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225511633&livereload=1537225440142" for ::1 at 2018-09-17 16:05:11 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225517143&livereload=1537225440142" for ::1 at 2018-09-17 16:05:17 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225517144&livereload=1537225440142" for ::1 at 2018-09-17 16:05:17 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225521280&livereload=1537225440142" for ::1 at 2018-09-17 16:05:21 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225521282&livereload=1537225440142" for ::1 at 2018-09-17 16:05:21 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225521742&livereload=1537225440142" for ::1 at 2018-09-17 16:05:21 -0700
+Started GET "/assets/application.self-9acacece7d9173bb15df5eeda7aa2eac600effed2103e2998c647417884d582e.css?body=1&livereload=1537225521742&livereload=1537225440142&livereload=1537225521742" for ::1 at 2018-09-17 16:05:21 -0700
+Started GET "/" for ::1 at 2018-09-17 16:05:24 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.5ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.6ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (15.3ms)
+Completed 200 OK in 46ms (Views: 43.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-7dbe7300a5c08a03677404e2caa04292bb8374f0426dc3f12c12a285b90c2b16.css?body=1" for ::1 at 2018-09-17 16:05:24 -0700
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 16:05:24 -0700
+Started GET "/assets/application.self-7dbe7300a5c08a03677404e2caa04292bb8374f0426dc3f12c12a285b90c2b16.css?body=1&livereload=1537225537942" for ::1 at 2018-09-17 16:05:37 -0700
+Started GET "/assets/application.self-7dbe7300a5c08a03677404e2caa04292bb8374f0426dc3f12c12a285b90c2b16.css?body=1&livereload=1537225537944" for ::1 at 2018-09-17 16:05:37 -0700
+Started GET "/" for ::1 at 2018-09-17 16:05:39 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.7ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (15.5ms)
+Completed 200 OK in 48ms (Views: 46.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1" for ::1 at 2018-09-17 16:05:39 -0700
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 16:05:39 -0700
+Started GET "/" for ::1 at 2018-09-17 16:06:02 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.5ms)
+  Rendered shared/_masthead.html.erb (0.7ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (17.1ms)
+Completed 200 OK in 42ms (Views: 39.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 16:06:02 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225573325" for ::1 at 2018-09-17 16:06:13 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225573326" for ::1 at 2018-09-17 16:06:13 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225590930" for ::1 at 2018-09-17 16:06:30 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225590931" for ::1 at 2018-09-17 16:06:30 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225602966" for ::1 at 2018-09-17 16:06:42 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225602967" for ::1 at 2018-09-17 16:06:42 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225623823" for ::1 at 2018-09-17 16:07:03 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225623824" for ::1 at 2018-09-17 16:07:03 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225635955" for ::1 at 2018-09-17 16:07:15 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225635956" for ::1 at 2018-09-17 16:07:15 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225644330" for ::1 at 2018-09-17 16:07:24 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225644332" for ::1 at 2018-09-17 16:07:24 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225683565" for ::1 at 2018-09-17 16:08:03 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225683566" for ::1 at 2018-09-17 16:08:03 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225719080" for ::1 at 2018-09-17 16:08:39 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225719082" for ::1 at 2018-09-17 16:08:39 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225721927" for ::1 at 2018-09-17 16:08:41 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225721930" for ::1 at 2018-09-17 16:08:41 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225725330" for ::1 at 2018-09-17 16:08:45 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225725331" for ::1 at 2018-09-17 16:08:45 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225732594" for ::1 at 2018-09-17 16:08:52 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225732596" for ::1 at 2018-09-17 16:08:52 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225735354" for ::1 at 2018-09-17 16:08:55 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225735355" for ::1 at 2018-09-17 16:08:55 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225741430" for ::1 at 2018-09-17 16:09:01 -0700
+Started GET "/assets/application.self-ef7712387291e848796f902a05a2f452d1c2f799206ec3bb6f36b329b9a2dca0.css?body=1&livereload=1537225741431" for ::1 at 2018-09-17 16:09:01 -0700
+Started GET "/" for ::1 at 2018-09-17 16:09:03 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.3ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (14.0ms)
+Completed 200 OK in 44ms (Views: 41.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-59024ed5f499110c6ba637d9989128fe80a09be3a4bf3cc27d38162b955e3739.css?body=1" for ::1 at 2018-09-17 16:09:03 -0700
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 16:09:03 -0700
+Started GET "/assets/application.self-59024ed5f499110c6ba637d9989128fe80a09be3a4bf3cc27d38162b955e3739.css?body=1&livereload=1537225748846" for ::1 at 2018-09-17 16:09:08 -0700
+Started GET "/assets/application.self-59024ed5f499110c6ba637d9989128fe80a09be3a4bf3cc27d38162b955e3739.css?body=1&livereload=1537225748848" for ::1 at 2018-09-17 16:09:08 -0700
+Started GET "/" for ::1 at 2018-09-17 16:09:10 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.6ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (14.4ms)
+Completed 200 OK in 47ms (Views: 44.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-7b08d59adb6a0803d0b4a2e7efa353bce23fcff454de496bcaf5d44882c2163b.css?body=1" for ::1 at 2018-09-17 16:09:10 -0700
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 16:09:10 -0700
+Started GET "/" for ::1 at 2018-09-17 16:13:34 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.6ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.6ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (15.6ms)
+Completed 200 OK in 42ms (Views: 39.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 16:13:34 -0700
+Started GET "/assets/application.self-7b08d59adb6a0803d0b4a2e7efa353bce23fcff454de496bcaf5d44882c2163b.css?body=1&livereload=1537226070993" for ::1 at 2018-09-17 16:14:30 -0700
+Started GET "/assets/application.self-7b08d59adb6a0803d0b4a2e7efa353bce23fcff454de496bcaf5d44882c2163b.css?body=1&livereload=1537226070994" for ::1 at 2018-09-17 16:14:30 -0700
+Started GET "/" for ::1 at 2018-09-17 16:14:45 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.9ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.5ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (17.6ms)
+Completed 200 OK in 58ms (Views: 54.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-fd97a8dc333618629a86961bf9c5ecd17b178cd8941f73e3649c00770974b97f.css?body=1" for ::1 at 2018-09-17 16:14:45 -0700
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 16:14:45 -0700
+Started GET "/assets/application.self-fd97a8dc333618629a86961bf9c5ecd17b178cd8941f73e3649c00770974b97f.css?body=1&livereload=1537226096298" for ::1 at 2018-09-17 16:14:56 -0700
+Started GET "/assets/application.self-fd97a8dc333618629a86961bf9c5ecd17b178cd8941f73e3649c00770974b97f.css?body=1&livereload=1537226096298&livereload=1537226096298" for ::1 at 2018-09-17 16:14:56 -0700
+Started GET "/assets/application.self-fd97a8dc333618629a86961bf9c5ecd17b178cd8941f73e3649c00770974b97f.css?body=1&livereload=1537226105756&livereload=1537226096298" for ::1 at 2018-09-17 16:15:05 -0700
+Started GET "/assets/application.self-fd97a8dc333618629a86961bf9c5ecd17b178cd8941f73e3649c00770974b97f.css?body=1&livereload=1537226105757&livereload=1537226096298" for ::1 at 2018-09-17 16:15:05 -0700
+Started GET "/" for ::1 at 2018-09-17 16:15:18 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.5ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (17.0ms)
+Completed 200 OK in 43ms (Views: 39.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 16:15:19 -0700
+Started GET "/" for ::1 at 2018-09-17 16:15:20 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.3ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (12.6ms)
+Completed 200 OK in 39ms (Views: 36.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 16:15:20 -0700
+Started GET "/" for ::1 at 2018-09-17 16:15:52 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.7ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.2ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (16.5ms)
+Completed 200 OK in 43ms (Views: 40.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 16:15:52 -0700
+Started GET "/assets/application.self-fd97a8dc333618629a86961bf9c5ecd17b178cd8941f73e3649c00770974b97f.css?body=1&livereload=1537226363879" for ::1 at 2018-09-17 16:19:23 -0700
+Started GET "/assets/application.self-fd97a8dc333618629a86961bf9c5ecd17b178cd8941f73e3649c00770974b97f.css?body=1&livereload=1537226363882" for ::1 at 2018-09-17 16:19:23 -0700
+Started GET "/assets/application.self-fd97a8dc333618629a86961bf9c5ecd17b178cd8941f73e3649c00770974b97f.css?body=1&livereload=1537226364893" for ::1 at 2018-09-17 16:19:24 -0700
+Started GET "/assets/application.self-fd97a8dc333618629a86961bf9c5ecd17b178cd8941f73e3649c00770974b97f.css?body=1&livereload=1537226364895" for ::1 at 2018-09-17 16:19:24 -0700
+Started GET "/assets/application.self-fd97a8dc333618629a86961bf9c5ecd17b178cd8941f73e3649c00770974b97f.css?body=1&livereload=1537226398119" for ::1 at 2018-09-17 16:19:58 -0700
+Started GET "/assets/application.self-fd97a8dc333618629a86961bf9c5ecd17b178cd8941f73e3649c00770974b97f.css?body=1&livereload=1537226398121" for ::1 at 2018-09-17 16:19:58 -0700
+Started GET "/assets/application.self-fd97a8dc333618629a86961bf9c5ecd17b178cd8941f73e3649c00770974b97f.css?body=1&livereload=1537226404857" for ::1 at 2018-09-17 16:20:04 -0700
+Started GET "/assets/application.self-fd97a8dc333618629a86961bf9c5ecd17b178cd8941f73e3649c00770974b97f.css?body=1&livereload=1537226404858" for ::1 at 2018-09-17 16:20:04 -0700
+Started GET "/assets/application.self-fd97a8dc333618629a86961bf9c5ecd17b178cd8941f73e3649c00770974b97f.css?body=1&livereload=1537226417528" for ::1 at 2018-09-17 16:20:17 -0700
+Started GET "/assets/application.self-fd97a8dc333618629a86961bf9c5ecd17b178cd8941f73e3649c00770974b97f.css?body=1&livereload=1537226417531" for ::1 at 2018-09-17 16:20:17 -0700
+Started GET "/" for ::1 at 2018-09-17 16:23:50 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.5ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (15.4ms)
+Completed 200 OK in 43ms (Views: 39.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b40f728e9288c5e9a616c1d27e91cfe7f64d34563a354e7fa67765e93ddd9813.css?body=1" for ::1 at 2018-09-17 16:23:50 -0700
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 16:23:50 -0700
+Started GET "/" for ::1 at 2018-09-17 16:26:31 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.7ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (16.4ms)
+Completed 200 OK in 39ms (Views: 36.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 16:26:31 -0700
+Started GET "/" for ::1 at 2018-09-17 16:26:36 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.4ms)
+  Rendered shared/_masthead.html.erb (0.5ms)
+  Rendered shared/_sections_nav.html.erb (0.7ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (15.7ms)
+Completed 200 OK in 40ms (Views: 37.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 16:26:36 -0700
+Started GET "/" for ::1 at 2018-09-17 16:28:28 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (9.6ms)
+  Rendered static_pages/index.html.erb within layouts/application (14.6ms)
+Completed 500 Internal Server Error in 27ms (ActiveRecord: 0.0ms)
+
+
+
+ActionView::MissingTemplate - Missing partial shared/_gear_dropdwon with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/Users/appacademy/Desktop/W5D1/AATimes/app/views"
+:
+  app/views/shared/_main_nav.html.erb:21:in `_app_views_shared__main_nav_html_erb___2017690376415053950_70098807737680'
+  app/views/static_pages/index.html.erb:1:in `_app_views_static_pages_index_html_erb___3484363630176474604_70098807866760'
+
+Started POST "/__better_errors/e45fb02bbc76175a/variables" for ::1 at 2018-09-17 16:28:28 -0700
+Started GET "/" for ::1 at 2018-09-17 16:28:30 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.4ms)
+  Rendered shared/_main_nav.html.erb (3.5ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.7ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (21.3ms)
+Completed 200 OK in 43ms (Views: 40.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 16:28:30 -0700
+Started GET "/" for ::1 at 2018-09-17 16:28:44 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.6ms)
+  Rendered shared/_main_nav.html.erb (3.5ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.6ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (18.9ms)
+Completed 200 OK in 45ms (Views: 41.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 16:28:44 -0700
+Started GET "/assets/application.self-b40f728e9288c5e9a616c1d27e91cfe7f64d34563a354e7fa67765e93ddd9813.css?body=1&livereload=1537226993213" for ::1 at 2018-09-17 16:29:53 -0700
+Started GET "/assets/application.self-b40f728e9288c5e9a616c1d27e91cfe7f64d34563a354e7fa67765e93ddd9813.css?body=1&livereload=1537226993215" for ::1 at 2018-09-17 16:29:53 -0700
+Started GET "/assets/application.self-b40f728e9288c5e9a616c1d27e91cfe7f64d34563a354e7fa67765e93ddd9813.css?body=1&livereload=1537227085757" for ::1 at 2018-09-17 16:31:25 -0700
+Started GET "/assets/application.self-b40f728e9288c5e9a616c1d27e91cfe7f64d34563a354e7fa67765e93ddd9813.css?body=1&livereload=1537227085757&livereload=1537227085757" for ::1 at 2018-09-17 16:31:25 -0700
+Started GET "/assets/application.self-b40f728e9288c5e9a616c1d27e91cfe7f64d34563a354e7fa67765e93ddd9813.css?body=1&livereload=1537227221568&livereload=1537227085757" for ::1 at 2018-09-17 16:33:41 -0700
+Started GET "/assets/application.self-b40f728e9288c5e9a616c1d27e91cfe7f64d34563a354e7fa67765e93ddd9813.css?body=1&livereload=1537227221569&livereload=1537227085757" for ::1 at 2018-09-17 16:33:41 -0700
+Started GET "/assets/application.self-b40f728e9288c5e9a616c1d27e91cfe7f64d34563a354e7fa67765e93ddd9813.css?body=1&livereload=1537227227810&livereload=1537227085757" for ::1 at 2018-09-17 16:33:47 -0700
+Started GET "/assets/application.self-b40f728e9288c5e9a616c1d27e91cfe7f64d34563a354e7fa67765e93ddd9813.css?body=1&livereload=1537227227812&livereload=1537227085757" for ::1 at 2018-09-17 16:33:47 -0700
+Started GET "/" for ::1 at 2018-09-17 16:33:51 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.5ms)
+  Rendered shared/_main_nav.html.erb (4.0ms)
+  Rendered shared/_masthead.html.erb (0.5ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (18.8ms)
+Completed 200 OK in 51ms (Views: 48.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1" for ::1 at 2018-09-17 16:33:51 -0700
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 16:33:51 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227249828" for ::1 at 2018-09-17 16:34:09 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227249830" for ::1 at 2018-09-17 16:34:09 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227303611" for ::1 at 2018-09-17 16:35:03 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227303610" for ::1 at 2018-09-17 16:35:03 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227311338" for ::1 at 2018-09-17 16:35:11 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227311337" for ::1 at 2018-09-17 16:35:11 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227314652" for ::1 at 2018-09-17 16:35:14 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227314651" for ::1 at 2018-09-17 16:35:14 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227352675" for ::1 at 2018-09-17 16:35:52 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227352677" for ::1 at 2018-09-17 16:35:52 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227374525" for ::1 at 2018-09-17 16:36:14 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227374526" for ::1 at 2018-09-17 16:36:14 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227380491" for ::1 at 2018-09-17 16:36:20 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227380493" for ::1 at 2018-09-17 16:36:20 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227502847" for ::1 at 2018-09-17 16:38:22 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227502850" for ::1 at 2018-09-17 16:38:22 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227531845" for ::1 at 2018-09-17 16:38:51 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227531847" for ::1 at 2018-09-17 16:38:51 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227557771" for ::1 at 2018-09-17 16:39:17 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227557773" for ::1 at 2018-09-17 16:39:17 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227580019" for ::1 at 2018-09-17 16:39:40 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227580021" for ::1 at 2018-09-17 16:39:40 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227611630" for ::1 at 2018-09-17 16:40:11 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227611631" for ::1 at 2018-09-17 16:40:11 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227627692" for ::1 at 2018-09-17 16:40:27 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227627694" for ::1 at 2018-09-17 16:40:27 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227647843" for ::1 at 2018-09-17 16:40:47 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227647845" for ::1 at 2018-09-17 16:40:47 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227658352" for ::1 at 2018-09-17 16:40:58 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227658354" for ::1 at 2018-09-17 16:40:58 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227664254" for ::1 at 2018-09-17 16:41:04 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227664252" for ::1 at 2018-09-17 16:41:04 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227723634" for ::1 at 2018-09-17 16:42:03 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227723635" for ::1 at 2018-09-17 16:42:03 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227769634" for ::1 at 2018-09-17 16:42:49 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227769636" for ::1 at 2018-09-17 16:42:49 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227778458" for ::1 at 2018-09-17 16:42:58 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227778461" for ::1 at 2018-09-17 16:42:58 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227780111" for ::1 at 2018-09-17 16:43:00 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227780112" for ::1 at 2018-09-17 16:43:00 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227790307" for ::1 at 2018-09-17 16:43:10 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227790309" for ::1 at 2018-09-17 16:43:10 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227791323" for ::1 at 2018-09-17 16:43:11 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227791324" for ::1 at 2018-09-17 16:43:11 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227845618" for ::1 at 2018-09-17 16:44:05 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227845619" for ::1 at 2018-09-17 16:44:05 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227891037" for ::1 at 2018-09-17 16:44:51 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227891038" for ::1 at 2018-09-17 16:44:51 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227920105" for ::1 at 2018-09-17 16:45:20 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227920107" for ::1 at 2018-09-17 16:45:20 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227928115" for ::1 at 2018-09-17 16:45:28 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227928116" for ::1 at 2018-09-17 16:45:28 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227950172" for ::1 at 2018-09-17 16:45:50 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227950173" for ::1 at 2018-09-17 16:45:50 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227992836" for ::1 at 2018-09-17 16:46:32 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537227992838" for ::1 at 2018-09-17 16:46:32 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228003499" for ::1 at 2018-09-17 16:46:43 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228003500" for ::1 at 2018-09-17 16:46:43 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228055652" for ::1 at 2018-09-17 16:47:35 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228055654" for ::1 at 2018-09-17 16:47:35 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228079487" for ::1 at 2018-09-17 16:47:59 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228079489" for ::1 at 2018-09-17 16:47:59 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228083703" for ::1 at 2018-09-17 16:48:03 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228083706" for ::1 at 2018-09-17 16:48:03 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228088128" for ::1 at 2018-09-17 16:48:08 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228088129" for ::1 at 2018-09-17 16:48:08 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228107172" for ::1 at 2018-09-17 16:48:27 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228107173" for ::1 at 2018-09-17 16:48:27 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228112228" for ::1 at 2018-09-17 16:48:32 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228112229" for ::1 at 2018-09-17 16:48:32 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228117645" for ::1 at 2018-09-17 16:48:37 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228117646" for ::1 at 2018-09-17 16:48:37 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228152984" for ::1 at 2018-09-17 16:49:12 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228152986" for ::1 at 2018-09-17 16:49:12 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228171527" for ::1 at 2018-09-17 16:49:31 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228171528" for ::1 at 2018-09-17 16:49:31 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228183554" for ::1 at 2018-09-17 16:49:43 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228183555" for ::1 at 2018-09-17 16:49:43 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228208329" for ::1 at 2018-09-17 16:50:08 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228208330" for ::1 at 2018-09-17 16:50:08 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228215484" for ::1 at 2018-09-17 16:50:15 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228215486" for ::1 at 2018-09-17 16:50:15 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228221718" for ::1 at 2018-09-17 16:50:21 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228221720" for ::1 at 2018-09-17 16:50:21 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228224843" for ::1 at 2018-09-17 16:50:24 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228224844" for ::1 at 2018-09-17 16:50:24 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228255768" for ::1 at 2018-09-17 16:50:55 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228255770" for ::1 at 2018-09-17 16:50:55 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228258342" for ::1 at 2018-09-17 16:50:58 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228258343" for ::1 at 2018-09-17 16:50:58 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228260266" for ::1 at 2018-09-17 16:51:00 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228260269" for ::1 at 2018-09-17 16:51:00 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228298315" for ::1 at 2018-09-17 16:51:38 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228298318" for ::1 at 2018-09-17 16:51:38 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228300994" for ::1 at 2018-09-17 16:51:41 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228300996" for ::1 at 2018-09-17 16:51:41 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228301542" for ::1 at 2018-09-17 16:51:41 -0700
+Started GET "/assets/application.self-bf79611b179834038d548c8091927938351282d4eaa9176cf215ad1fa494ca03.css?body=1&livereload=1537228301543" for ::1 at 2018-09-17 16:51:41 -0700
+Started GET "/" for ::1 at 2018-09-17 16:51:43 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.4ms)
+  Rendered shared/_main_nav.html.erb (3.7ms)
+  Rendered shared/_masthead.html.erb (0.5ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.7ms)
+  Rendered static_pages/index.html.erb within layouts/application (33.1ms)
+Completed 200 OK in 102ms (Views: 81.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-17d1bcd32eecf71415153ff444579d84f558079c237b7340b72a55fe37242e8a.css?body=1" for ::1 at 2018-09-17 16:51:43 -0700
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 16:51:43 -0700
+Started GET "/" for ::1 at 2018-09-17 16:51:44 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.5ms)
+  Rendered shared/_main_nav.html.erb (5.0ms)
+  Rendered shared/_masthead.html.erb (0.6ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (20.5ms)
+Completed 200 OK in 49ms (Views: 45.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 16:51:44 -0700
+Started GET "/assets/application.self-17d1bcd32eecf71415153ff444579d84f558079c237b7340b72a55fe37242e8a.css?body=1&livereload=1537228333814" for ::1 at 2018-09-17 16:52:13 -0700
+Started GET "/assets/application.self-17d1bcd32eecf71415153ff444579d84f558079c237b7340b72a55fe37242e8a.css?body=1&livereload=1537228333818" for ::1 at 2018-09-17 16:52:13 -0700
+Started GET "/" for ::1 at 2018-09-17 16:52:16 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.7ms)
+  Rendered shared/_main_nav.html.erb (4.5ms)
+  Rendered shared/_masthead.html.erb (0.6ms)
+  Rendered shared/_sections_nav.html.erb (0.6ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.2ms)
+  Rendered static_pages/index.html.erb within layouts/application (75.7ms)
+Completed 200 OK in 193ms (Views: 189.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e86a09df6e81e8cdf327ebe546469bf919b4df138e9f60a64009874d3a702b8d.css?body=1" for ::1 at 2018-09-17 16:52:17 -0700
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 16:52:17 -0700
+Started GET "/assets/application.self-e86a09df6e81e8cdf327ebe546469bf919b4df138e9f60a64009874d3a702b8d.css?body=1&livereload=1537228346221" for ::1 at 2018-09-17 16:52:26 -0700
+Started GET "/assets/application.self-e86a09df6e81e8cdf327ebe546469bf919b4df138e9f60a64009874d3a702b8d.css?body=1&livereload=1537228346224" for ::1 at 2018-09-17 16:52:26 -0700
+Started GET "/" for ::1 at 2018-09-17 16:52:29 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.4ms)
+  Rendered shared/_main_nav.html.erb (5.4ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (27.4ms)
+Completed 200 OK in 71ms (Views: 65.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 16:52:29 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1" for ::1 at 2018-09-17 16:52:29 -0700
+Started GET "/" for ::1 at 2018-09-17 16:52:29 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.4ms)
+  Rendered shared/_main_nav.html.erb (3.5ms)
+  Rendered shared/_masthead.html.erb (0.6ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (18.5ms)
+Completed 200 OK in 45ms (Views: 41.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 16:52:29 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228359326" for ::1 at 2018-09-17 16:52:39 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228359328" for ::1 at 2018-09-17 16:52:39 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228359872" for ::1 at 2018-09-17 16:52:39 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228359873" for ::1 at 2018-09-17 16:52:39 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228375203" for ::1 at 2018-09-17 16:52:55 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228375203&livereload=1537228375203" for ::1 at 2018-09-17 16:52:55 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228377862&livereload=1537228375203" for ::1 at 2018-09-17 16:52:57 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228377864&livereload=1537228375203" for ::1 at 2018-09-17 16:52:57 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228391902&livereload=1537228375203" for ::1 at 2018-09-17 16:53:11 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228391904&livereload=1537228375203" for ::1 at 2018-09-17 16:53:11 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228392471&livereload=1537228375203" for ::1 at 2018-09-17 16:53:12 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228392473&livereload=1537228375203" for ::1 at 2018-09-17 16:53:12 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228401994&livereload=1537228375203" for ::1 at 2018-09-17 16:53:22 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228401996&livereload=1537228375203" for ::1 at 2018-09-17 16:53:22 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228410900&livereload=1537228375203" for ::1 at 2018-09-17 16:53:30 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228410902&livereload=1537228375203" for ::1 at 2018-09-17 16:53:30 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228427101&livereload=1537228375203" for ::1 at 2018-09-17 16:53:47 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228427102&livereload=1537228375203" for ::1 at 2018-09-17 16:53:47 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228431976&livereload=1537228375203" for ::1 at 2018-09-17 16:53:51 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228431977&livereload=1537228375203" for ::1 at 2018-09-17 16:53:51 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228451910&livereload=1537228375203" for ::1 at 2018-09-17 16:54:11 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228451911&livereload=1537228375203" for ::1 at 2018-09-17 16:54:11 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228522881&livereload=1537228375203" for ::1 at 2018-09-17 16:55:22 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228522882&livereload=1537228375203" for ::1 at 2018-09-17 16:55:22 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228546999&livereload=1537228375203" for ::1 at 2018-09-17 16:55:47 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228547000&livereload=1537228375203" for ::1 at 2018-09-17 16:55:47 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228566216&livereload=1537228375203" for ::1 at 2018-09-17 16:56:06 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228566217&livereload=1537228375203" for ::1 at 2018-09-17 16:56:06 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228568139&livereload=1537228375203" for ::1 at 2018-09-17 16:56:08 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228568141&livereload=1537228375203" for ::1 at 2018-09-17 16:56:08 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228570717&livereload=1537228375203" for ::1 at 2018-09-17 16:56:10 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228570719&livereload=1537228375203" for ::1 at 2018-09-17 16:56:10 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228581366&livereload=1537228375203" for ::1 at 2018-09-17 16:56:21 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228581367&livereload=1537228375203" for ::1 at 2018-09-17 16:56:21 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228643997&livereload=1537228375203" for ::1 at 2018-09-17 16:57:24 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228643998&livereload=1537228375203" for ::1 at 2018-09-17 16:57:24 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228655646&livereload=1537228375203" for ::1 at 2018-09-17 16:57:35 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228655647&livereload=1537228375203" for ::1 at 2018-09-17 16:57:35 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228656659&livereload=1537228375203" for ::1 at 2018-09-17 16:57:36 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228656662&livereload=1537228375203" for ::1 at 2018-09-17 16:57:36 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228663196&livereload=1537228375203" for ::1 at 2018-09-17 16:57:43 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228663198&livereload=1537228375203" for ::1 at 2018-09-17 16:57:43 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228686104&livereload=1537228375203" for ::1 at 2018-09-17 16:58:06 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228686106&livereload=1537228375203" for ::1 at 2018-09-17 16:58:06 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228724571&livereload=1537228375203" for ::1 at 2018-09-17 16:58:44 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228724571&livereload=1537228375203&livereload=1537228724571" for ::1 at 2018-09-17 16:58:44 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228748278&livereload=1537228375203&livereload=1537228724571" for ::1 at 2018-09-17 16:59:08 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228748280&livereload=1537228375203&livereload=1537228724571" for ::1 at 2018-09-17 16:59:08 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228756269&livereload=1537228375203&livereload=1537228724571" for ::1 at 2018-09-17 16:59:16 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228756271&livereload=1537228375203&livereload=1537228724571" for ::1 at 2018-09-17 16:59:16 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228767291&livereload=1537228375203&livereload=1537228724571" for ::1 at 2018-09-17 16:59:27 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228767292&livereload=1537228375203&livereload=1537228724571" for ::1 at 2018-09-17 16:59:27 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228815818&livereload=1537228375203&livereload=1537228724571" for ::1 at 2018-09-17 17:00:15 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228815821&livereload=1537228375203&livereload=1537228724571" for ::1 at 2018-09-17 17:00:15 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228819027&livereload=1537228375203&livereload=1537228724571" for ::1 at 2018-09-17 17:00:19 -0700
+Started GET "/assets/application.self-5d8ff6b071b479276ddb295fd3cf1fe80c78fa7202a8fad216dba359a7cf858a.css?body=1&livereload=1537228819028&livereload=1537228375203&livereload=1537228724571" for ::1 at 2018-09-17 17:00:19 -0700
+Started GET "/" for ::1 at 2018-09-17 17:00:31 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.4ms)
+  Rendered shared/_main_nav.html.erb (2.9ms)
+  Rendered shared/_masthead.html.erb (0.6ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (31.3ms)
+Completed 200 OK in 155ms (Views: 97.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-f6d502c912e64428835f000377d49794ad2f8acfe05a686f06d0de4858ecb130.css?body=1" for ::1 at 2018-09-17 17:00:32 -0700
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 17:00:32 -0700
+Started GET "/assets/application.self-f6d502c912e64428835f000377d49794ad2f8acfe05a686f06d0de4858ecb130.css?body=1&livereload=1537228877913" for ::1 at 2018-09-17 17:01:17 -0700
+Started GET "/assets/application.self-f6d502c912e64428835f000377d49794ad2f8acfe05a686f06d0de4858ecb130.css?body=1&livereload=1537228877915" for ::1 at 2018-09-17 17:01:17 -0700
+Started GET "/assets/application.self-f6d502c912e64428835f000377d49794ad2f8acfe05a686f06d0de4858ecb130.css?body=1&livereload=1537228884243" for ::1 at 2018-09-17 17:01:24 -0700
+Started GET "/assets/application.self-f6d502c912e64428835f000377d49794ad2f8acfe05a686f06d0de4858ecb130.css?body=1&livereload=1537228884245" for ::1 at 2018-09-17 17:01:24 -0700
+Started GET "/assets/application.self-f6d502c912e64428835f000377d49794ad2f8acfe05a686f06d0de4858ecb130.css?body=1&livereload=1537228892145" for ::1 at 2018-09-17 17:01:32 -0700
+Started GET "/assets/application.self-f6d502c912e64428835f000377d49794ad2f8acfe05a686f06d0de4858ecb130.css?body=1&livereload=1537228892146" for ::1 at 2018-09-17 17:01:32 -0700
+Started GET "/assets/application.self-f6d502c912e64428835f000377d49794ad2f8acfe05a686f06d0de4858ecb130.css?body=1&livereload=1537228920395" for ::1 at 2018-09-17 17:02:00 -0700
+Started GET "/assets/application.self-f6d502c912e64428835f000377d49794ad2f8acfe05a686f06d0de4858ecb130.css?body=1&livereload=1537228920396" for ::1 at 2018-09-17 17:02:00 -0700
+Started GET "/assets/application.self-f6d502c912e64428835f000377d49794ad2f8acfe05a686f06d0de4858ecb130.css?body=1&livereload=1537228934076" for ::1 at 2018-09-17 17:02:14 -0700
+Started GET "/assets/application.self-f6d502c912e64428835f000377d49794ad2f8acfe05a686f06d0de4858ecb130.css?body=1&livereload=1537228934077" for ::1 at 2018-09-17 17:02:14 -0700
+Started GET "/assets/application.self-f6d502c912e64428835f000377d49794ad2f8acfe05a686f06d0de4858ecb130.css?body=1&livereload=1537228950814" for ::1 at 2018-09-17 17:02:30 -0700
+Started GET "/assets/application.self-f6d502c912e64428835f000377d49794ad2f8acfe05a686f06d0de4858ecb130.css?body=1&livereload=1537228950817" for ::1 at 2018-09-17 17:02:30 -0700
+Started GET "/" for ::1 at 2018-09-17 17:02:38 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.4ms)
+  Rendered shared/_main_nav.html.erb (4.5ms)
+  Rendered shared/_masthead.html.erb (0.9ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (20.2ms)
+Completed 200 OK in 49ms (Views: 45.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 17:02:39 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1" for ::1 at 2018-09-17 17:02:39 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229002870" for ::1 at 2018-09-17 17:03:22 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229002872" for ::1 at 2018-09-17 17:03:22 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229011867" for ::1 at 2018-09-17 17:03:31 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229011869" for ::1 at 2018-09-17 17:03:31 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229029931" for ::1 at 2018-09-17 17:03:49 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229029934" for ::1 at 2018-09-17 17:03:49 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229038015" for ::1 at 2018-09-17 17:03:58 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229038017" for ::1 at 2018-09-17 17:03:58 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229058097" for ::1 at 2018-09-17 17:04:18 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229058098" for ::1 at 2018-09-17 17:04:18 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229074077" for ::1 at 2018-09-17 17:04:34 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229074078" for ::1 at 2018-09-17 17:04:34 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229078575" for ::1 at 2018-09-17 17:04:38 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229078577" for ::1 at 2018-09-17 17:04:38 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229103840" for ::1 at 2018-09-17 17:05:03 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229103842" for ::1 at 2018-09-17 17:05:03 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229109170" for ::1 at 2018-09-17 17:05:09 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229109172" for ::1 at 2018-09-17 17:05:09 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229119189" for ::1 at 2018-09-17 17:05:19 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229119191" for ::1 at 2018-09-17 17:05:19 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229136255" for ::1 at 2018-09-17 17:05:36 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229136255&livereload=1537229136255" for ::1 at 2018-09-17 17:05:36 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229142232&livereload=1537229136255" for ::1 at 2018-09-17 17:05:42 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229142234&livereload=1537229136255" for ::1 at 2018-09-17 17:05:42 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229172083&livereload=1537229136255" for ::1 at 2018-09-17 17:06:12 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229172085&livereload=1537229136255" for ::1 at 2018-09-17 17:06:12 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229223277&livereload=1537229136255" for ::1 at 2018-09-17 17:07:03 -0700
+Started GET "/assets/application.self-f8de38867ac6ed7bbad7e8714ea21d476319af2d9d9b37fb579d6ed26bb814d3.css?body=1&livereload=1537229223280&livereload=1537229136255" for ::1 at 2018-09-17 17:07:03 -0700
+Started GET "/" for ::1 at 2018-09-17 17:07:09 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (1.1ms)
+  Rendered shared/_main_nav.html.erb (6.1ms)
+  Rendered shared/_masthead.html.erb (0.6ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (34.3ms)
+Completed 200 OK in 79ms (Views: 72.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-2ffeec463b69cfdf9095053fd84d44b47b51a942514afba0a4510887dc3a7e9a.css?body=1" for ::1 at 2018-09-17 17:07:09 -0700
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 17:07:09 -0700
+Started GET "/assets/application.self-2ffeec463b69cfdf9095053fd84d44b47b51a942514afba0a4510887dc3a7e9a.css?body=1&livereload=1537229236715" for ::1 at 2018-09-17 17:07:16 -0700
+Started GET "/assets/application.self-2ffeec463b69cfdf9095053fd84d44b47b51a942514afba0a4510887dc3a7e9a.css?body=1&livereload=1537229236718" for ::1 at 2018-09-17 17:07:16 -0700
+Started GET "/assets/application.self-2ffeec463b69cfdf9095053fd84d44b47b51a942514afba0a4510887dc3a7e9a.css?body=1&livereload=1537229244137" for ::1 at 2018-09-17 17:07:24 -0700
+Started GET "/assets/application.self-2ffeec463b69cfdf9095053fd84d44b47b51a942514afba0a4510887dc3a7e9a.css?body=1&livereload=1537229244139" for ::1 at 2018-09-17 17:07:24 -0700
+Started GET "/assets/application.self-2ffeec463b69cfdf9095053fd84d44b47b51a942514afba0a4510887dc3a7e9a.css?body=1&livereload=1537229245055" for ::1 at 2018-09-17 17:07:25 -0700
+Started GET "/assets/application.self-2ffeec463b69cfdf9095053fd84d44b47b51a942514afba0a4510887dc3a7e9a.css?body=1&livereload=1537229245057" for ::1 at 2018-09-17 17:07:25 -0700
+Started GET "/assets/application.self-2ffeec463b69cfdf9095053fd84d44b47b51a942514afba0a4510887dc3a7e9a.css?body=1&livereload=1537229248286" for ::1 at 2018-09-17 17:07:28 -0700
+Started GET "/assets/application.self-2ffeec463b69cfdf9095053fd84d44b47b51a942514afba0a4510887dc3a7e9a.css?body=1&livereload=1537229248287" for ::1 at 2018-09-17 17:07:28 -0700
+Started GET "/assets/application.self-2ffeec463b69cfdf9095053fd84d44b47b51a942514afba0a4510887dc3a7e9a.css?body=1&livereload=1537229264902" for ::1 at 2018-09-17 17:07:44 -0700
+Started GET "/assets/application.self-2ffeec463b69cfdf9095053fd84d44b47b51a942514afba0a4510887dc3a7e9a.css?body=1&livereload=1537229264904" for ::1 at 2018-09-17 17:07:44 -0700
+Started GET "/assets/application.self-2ffeec463b69cfdf9095053fd84d44b47b51a942514afba0a4510887dc3a7e9a.css?body=1&livereload=1537229275095" for ::1 at 2018-09-17 17:07:55 -0700
+Started GET "/assets/application.self-2ffeec463b69cfdf9095053fd84d44b47b51a942514afba0a4510887dc3a7e9a.css?body=1&livereload=1537229275096" for ::1 at 2018-09-17 17:07:55 -0700
+Started GET "/assets/application.self-2ffeec463b69cfdf9095053fd84d44b47b51a942514afba0a4510887dc3a7e9a.css?body=1&livereload=1537229275562" for ::1 at 2018-09-17 17:07:55 -0700
+Started GET "/assets/application.self-2ffeec463b69cfdf9095053fd84d44b47b51a942514afba0a4510887dc3a7e9a.css?body=1&livereload=1537229275563" for ::1 at 2018-09-17 17:07:55 -0700
+Started GET "/assets/application.self-2ffeec463b69cfdf9095053fd84d44b47b51a942514afba0a4510887dc3a7e9a.css?body=1&livereload=1537229290165" for ::1 at 2018-09-17 17:08:10 -0700
+Started GET "/assets/application.self-2ffeec463b69cfdf9095053fd84d44b47b51a942514afba0a4510887dc3a7e9a.css?body=1&livereload=1537229290167" for ::1 at 2018-09-17 17:08:10 -0700
+Started GET "/assets/application.self-2ffeec463b69cfdf9095053fd84d44b47b51a942514afba0a4510887dc3a7e9a.css?body=1&livereload=1537229294851" for ::1 at 2018-09-17 17:08:14 -0700
+Started GET "/assets/application.self-2ffeec463b69cfdf9095053fd84d44b47b51a942514afba0a4510887dc3a7e9a.css?body=1&livereload=1537229294853" for ::1 at 2018-09-17 17:08:14 -0700
+Started GET "/assets/application.self-2ffeec463b69cfdf9095053fd84d44b47b51a942514afba0a4510887dc3a7e9a.css?body=1&livereload=1537229299467" for ::1 at 2018-09-17 17:08:19 -0700
+Started GET "/assets/application.self-2ffeec463b69cfdf9095053fd84d44b47b51a942514afba0a4510887dc3a7e9a.css?body=1&livereload=1537229299469" for ::1 at 2018-09-17 17:08:19 -0700
+Started GET "/" for ::1 at 2018-09-17 17:08:24 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.4ms)
+  Rendered shared/_main_nav.html.erb (4.6ms)
+  Rendered shared/_masthead.html.erb (0.5ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (18.9ms)
+Completed 200 OK in 52ms (Views: 47.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-dd8f4fb2aa9311e4a6b0b3831fcd9d76babc350419dedcce6f3a870abd532f42.css?body=1" for ::1 at 2018-09-17 17:08:24 -0700
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 17:08:24 -0700
+Started GET "/assets/application.self-dd8f4fb2aa9311e4a6b0b3831fcd9d76babc350419dedcce6f3a870abd532f42.css?body=1&livereload=1537229314111" for ::1 at 2018-09-17 17:08:34 -0700
+Started GET "/assets/application.self-dd8f4fb2aa9311e4a6b0b3831fcd9d76babc350419dedcce6f3a870abd532f42.css?body=1&livereload=1537229314114" for ::1 at 2018-09-17 17:08:34 -0700
+Started GET "/assets/application.self-dd8f4fb2aa9311e4a6b0b3831fcd9d76babc350419dedcce6f3a870abd532f42.css?body=1&livereload=1537229323663" for ::1 at 2018-09-17 17:08:43 -0700
+Started GET "/assets/application.self-dd8f4fb2aa9311e4a6b0b3831fcd9d76babc350419dedcce6f3a870abd532f42.css?body=1&livereload=1537229323662" for ::1 at 2018-09-17 17:08:43 -0700
+Started GET "/assets/application.self-dd8f4fb2aa9311e4a6b0b3831fcd9d76babc350419dedcce6f3a870abd532f42.css?body=1&livereload=1537229331193" for ::1 at 2018-09-17 17:08:51 -0700
+Started GET "/assets/application.self-dd8f4fb2aa9311e4a6b0b3831fcd9d76babc350419dedcce6f3a870abd532f42.css?body=1&livereload=1537229331194" for ::1 at 2018-09-17 17:08:51 -0700
+Started GET "/" for ::1 at 2018-09-17 17:08:53 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.5ms)
+  Rendered shared/_main_nav.html.erb (4.7ms)
+  Rendered shared/_masthead.html.erb (0.5ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (21.5ms)
+Completed 200 OK in 56ms (Views: 52.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-fe73a7b4996e87c22c7fc1b432fc730111a95780bb3e30894eeed7fee7b6cdc9.css?body=1" for ::1 at 2018-09-17 17:08:53 -0700
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 17:08:53 -0700
+Started GET "/assets/application.self-fe73a7b4996e87c22c7fc1b432fc730111a95780bb3e30894eeed7fee7b6cdc9.css?body=1&livereload=1537229340589" for ::1 at 2018-09-17 17:09:00 -0700
+Started GET "/assets/application.self-fe73a7b4996e87c22c7fc1b432fc730111a95780bb3e30894eeed7fee7b6cdc9.css?body=1&livereload=1537229340592" for ::1 at 2018-09-17 17:09:00 -0700
+Started GET "/assets/application.self-fe73a7b4996e87c22c7fc1b432fc730111a95780bb3e30894eeed7fee7b6cdc9.css?body=1&livereload=1537229370680" for ::1 at 2018-09-17 17:09:30 -0700
+Started GET "/assets/application.self-fe73a7b4996e87c22c7fc1b432fc730111a95780bb3e30894eeed7fee7b6cdc9.css?body=1&livereload=1537229370682" for ::1 at 2018-09-17 17:09:30 -0700
+Started GET "/assets/application.self-fe73a7b4996e87c22c7fc1b432fc730111a95780bb3e30894eeed7fee7b6cdc9.css?body=1&livereload=1537229384992" for ::1 at 2018-09-17 17:09:44 -0700
+Started GET "/assets/application.self-fe73a7b4996e87c22c7fc1b432fc730111a95780bb3e30894eeed7fee7b6cdc9.css?body=1&livereload=1537229384994" for ::1 at 2018-09-17 17:09:45 -0700
+Started GET "/assets/application.self-fe73a7b4996e87c22c7fc1b432fc730111a95780bb3e30894eeed7fee7b6cdc9.css?body=1&livereload=1537229445492" for ::1 at 2018-09-17 17:10:45 -0700
+Started GET "/assets/application.self-fe73a7b4996e87c22c7fc1b432fc730111a95780bb3e30894eeed7fee7b6cdc9.css?body=1&livereload=1537229445494" for ::1 at 2018-09-17 17:10:45 -0700
+Started GET "/assets/application.self-fe73a7b4996e87c22c7fc1b432fc730111a95780bb3e30894eeed7fee7b6cdc9.css?body=1&livereload=1537229455849" for ::1 at 2018-09-17 17:10:55 -0700
+Started GET "/assets/application.self-fe73a7b4996e87c22c7fc1b432fc730111a95780bb3e30894eeed7fee7b6cdc9.css?body=1&livereload=1537229455850" for ::1 at 2018-09-17 17:10:55 -0700
+Started GET "/assets/application.self-fe73a7b4996e87c22c7fc1b432fc730111a95780bb3e30894eeed7fee7b6cdc9.css?body=1&livereload=1537229456765" for ::1 at 2018-09-17 17:10:56 -0700
+Started GET "/assets/application.self-fe73a7b4996e87c22c7fc1b432fc730111a95780bb3e30894eeed7fee7b6cdc9.css?body=1&livereload=1537229456766" for ::1 at 2018-09-17 17:10:56 -0700
+Started GET "/assets/application.self-fe73a7b4996e87c22c7fc1b432fc730111a95780bb3e30894eeed7fee7b6cdc9.css?body=1&livereload=1537229463002" for ::1 at 2018-09-17 17:11:03 -0700
+Started GET "/assets/application.self-fe73a7b4996e87c22c7fc1b432fc730111a95780bb3e30894eeed7fee7b6cdc9.css?body=1&livereload=1537229463003" for ::1 at 2018-09-17 17:11:03 -0700
+Started GET "/assets/application.self-fe73a7b4996e87c22c7fc1b432fc730111a95780bb3e30894eeed7fee7b6cdc9.css?body=1&livereload=1537229535724" for ::1 at 2018-09-17 17:12:15 -0700
+Started GET "/assets/application.self-fe73a7b4996e87c22c7fc1b432fc730111a95780bb3e30894eeed7fee7b6cdc9.css?body=1&livereload=1537229535725" for ::1 at 2018-09-17 17:12:15 -0700
+Started GET "/assets/application.self-fe73a7b4996e87c22c7fc1b432fc730111a95780bb3e30894eeed7fee7b6cdc9.css?body=1&livereload=1537229572190" for ::1 at 2018-09-17 17:12:52 -0700
+Started GET "/assets/application.self-fe73a7b4996e87c22c7fc1b432fc730111a95780bb3e30894eeed7fee7b6cdc9.css?body=1&livereload=1537229572192" for ::1 at 2018-09-17 17:12:52 -0700
+Started GET "/" for ::1 at 2018-09-17 17:12:54 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.2ms)
+  Rendered shared/_main_nav.html.erb (2.3ms)
+  Rendered shared/_masthead.html.erb (0.5ms)
+  Rendered shared/_sections_nav.html.erb (1.1ms)
+  Rendered shared/_search_modal.html.erb (0.6ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (31.4ms)
+Completed 200 OK in 123ms (Views: 108.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-e0235709ab8d4cc81b519dcf83d48cc4cc50f38d5ee402783f1c950e3fd846a1.css?body=1" for ::1 at 2018-09-17 17:12:54 -0700
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 17:12:54 -0700
+Started GET "/assets/application.self-e0235709ab8d4cc81b519dcf83d48cc4cc50f38d5ee402783f1c950e3fd846a1.css?body=1&livereload=1537229641432" for ::1 at 2018-09-17 17:14:01 -0700
+Started GET "/assets/application.self-e0235709ab8d4cc81b519dcf83d48cc4cc50f38d5ee402783f1c950e3fd846a1.css?body=1&livereload=1537229641436" for ::1 at 2018-09-17 17:14:01 -0700
+Started GET "/" for ::1 at 2018-09-17 17:14:03 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.4ms)
+  Rendered shared/_main_nav.html.erb (3.4ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.3ms)
+  Rendered shared/_search_modal.html.erb (0.2ms)
+  Rendered shared/_main_content.html.erb (0.7ms)
+  Rendered static_pages/index.html.erb within layouts/application (20.2ms)
+Completed 200 OK in 61ms (Views: 58.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 17:14:03 -0700
+Started GET "/assets/application.self-70ce741044c05b08cd9ad3f88ea1fe8adda236178b9bc042e8cea6b289e5f397.css?body=1" for ::1 at 2018-09-17 17:14:03 -0700
+Started GET "/assets/application.self-70ce741044c05b08cd9ad3f88ea1fe8adda236178b9bc042e8cea6b289e5f397.css?body=1&livereload=1537229687641" for ::1 at 2018-09-17 17:14:47 -0700
+Started GET "/assets/application.self-70ce741044c05b08cd9ad3f88ea1fe8adda236178b9bc042e8cea6b289e5f397.css?body=1&livereload=1537229687645" for ::1 at 2018-09-17 17:14:47 -0700
+Started GET "/" for ::1 at 2018-09-17 17:14:50 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.7ms)
+  Rendered shared/_main_nav.html.erb (3.6ms)
+  Rendered shared/_masthead.html.erb (0.6ms)
+  Rendered shared/_sections_nav.html.erb (0.7ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (18.4ms)
+Completed 200 OK in 57ms (Views: 53.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 17:14:50 -0700
+Started GET "/assets/application.self-a55bcc2b39da3c33e2532f1edb52965c669f44d49cad06de10962ef05aa67ce8.css?body=1" for ::1 at 2018-09-17 17:14:50 -0700
+Started GET "/" for ::1 at 2018-09-17 17:14:51 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.5ms)
+  Rendered shared/_main_nav.html.erb (3.9ms)
+  Rendered shared/_masthead.html.erb (0.8ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.5ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (21.2ms)
+Completed 200 OK in 55ms (Views: 51.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 17:14:51 -0700
+Started GET "/assets/application.self-a55bcc2b39da3c33e2532f1edb52965c669f44d49cad06de10962ef05aa67ce8.css?body=1&livereload=1537229722744" for ::1 at 2018-09-17 17:15:22 -0700
+Started GET "/assets/application.self-a55bcc2b39da3c33e2532f1edb52965c669f44d49cad06de10962ef05aa67ce8.css?body=1&livereload=1537229722747" for ::1 at 2018-09-17 17:15:22 -0700
+Started GET "/" for ::1 at 2018-09-17 17:15:24 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.5ms)
+  Rendered shared/_main_nav.html.erb (3.8ms)
+  Rendered shared/_masthead.html.erb (0.5ms)
+  Rendered shared/_sections_nav.html.erb (0.6ms)
+  Rendered shared/_search_modal.html.erb (0.5ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (21.7ms)
+Completed 200 OK in 60ms (Views: 57.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 17:15:25 -0700
+Started GET "/assets/application.self-418590e09e46663ac9d563f1cb262aa8e33fe40e4cfafaaa91944073a21e9b32.css?body=1" for ::1 at 2018-09-17 17:15:25 -0700
+Started GET "/assets/application.self-418590e09e46663ac9d563f1cb262aa8e33fe40e4cfafaaa91944073a21e9b32.css?body=1&livereload=1537229799647" for ::1 at 2018-09-17 17:16:39 -0700
+Started GET "/assets/application.self-418590e09e46663ac9d563f1cb262aa8e33fe40e4cfafaaa91944073a21e9b32.css?body=1&livereload=1537229799649" for ::1 at 2018-09-17 17:16:39 -0700
+Started GET "/assets/application.self-418590e09e46663ac9d563f1cb262aa8e33fe40e4cfafaaa91944073a21e9b32.css?body=1&livereload=1537229986276" for ::1 at 2018-09-17 17:19:46 -0700
+Started GET "/assets/application.self-418590e09e46663ac9d563f1cb262aa8e33fe40e4cfafaaa91944073a21e9b32.css?body=1&livereload=1537229986278" for ::1 at 2018-09-17 17:19:46 -0700
+Started GET "/assets/application.self-418590e09e46663ac9d563f1cb262aa8e33fe40e4cfafaaa91944073a21e9b32.css?body=1&livereload=1537229990252" for ::1 at 2018-09-17 17:19:50 -0700
+Started GET "/assets/application.self-418590e09e46663ac9d563f1cb262aa8e33fe40e4cfafaaa91944073a21e9b32.css?body=1&livereload=1537229990254" for ::1 at 2018-09-17 17:19:50 -0700
+Started GET "/assets/application.self-418590e09e46663ac9d563f1cb262aa8e33fe40e4cfafaaa91944073a21e9b32.css?body=1&livereload=1537230020619" for ::1 at 2018-09-17 17:20:20 -0700
+Started GET "/assets/application.self-418590e09e46663ac9d563f1cb262aa8e33fe40e4cfafaaa91944073a21e9b32.css?body=1&livereload=1537230020621" for ::1 at 2018-09-17 17:20:20 -0700
+Started GET "/assets/application.self-418590e09e46663ac9d563f1cb262aa8e33fe40e4cfafaaa91944073a21e9b32.css?body=1&livereload=1537230040419" for ::1 at 2018-09-17 17:20:40 -0700
+Started GET "/assets/application.self-418590e09e46663ac9d563f1cb262aa8e33fe40e4cfafaaa91944073a21e9b32.css?body=1&livereload=1537230040419&livereload=1537230040419" for ::1 at 2018-09-17 17:20:40 -0700
+Started GET "/assets/application.self-418590e09e46663ac9d563f1cb262aa8e33fe40e4cfafaaa91944073a21e9b32.css?body=1&livereload=1537230054052&livereload=1537230040419" for ::1 at 2018-09-17 17:20:54 -0700
+Started GET "/assets/application.self-418590e09e46663ac9d563f1cb262aa8e33fe40e4cfafaaa91944073a21e9b32.css?body=1&livereload=1537230054053&livereload=1537230040419" for ::1 at 2018-09-17 17:20:54 -0700
+Started GET "/assets/application.self-418590e09e46663ac9d563f1cb262aa8e33fe40e4cfafaaa91944073a21e9b32.css?body=1&livereload=1537230464593&livereload=1537230040419" for ::1 at 2018-09-17 17:27:44 -0700
+Started GET "/assets/application.self-418590e09e46663ac9d563f1cb262aa8e33fe40e4cfafaaa91944073a21e9b32.css?body=1&livereload=1537230464595&livereload=1537230040419" for ::1 at 2018-09-17 17:27:44 -0700
+Started GET "/assets/application.self-418590e09e46663ac9d563f1cb262aa8e33fe40e4cfafaaa91944073a21e9b32.css?body=1&livereload=1537230481976&livereload=1537230040419" for ::1 at 2018-09-17 17:28:01 -0700
+Started GET "/assets/application.self-418590e09e46663ac9d563f1cb262aa8e33fe40e4cfafaaa91944073a21e9b32.css?body=1&livereload=1537230481977&livereload=1537230040419" for ::1 at 2018-09-17 17:28:01 -0700
+Started GET "/assets/application.self-418590e09e46663ac9d563f1cb262aa8e33fe40e4cfafaaa91944073a21e9b32.css?body=1&livereload=1537230530755&livereload=1537230040419" for ::1 at 2018-09-17 17:28:50 -0700
+Started GET "/assets/application.self-418590e09e46663ac9d563f1cb262aa8e33fe40e4cfafaaa91944073a21e9b32.css?body=1&livereload=1537230530757&livereload=1537230040419" for ::1 at 2018-09-17 17:28:50 -0700
+Started GET "/assets/application.self-418590e09e46663ac9d563f1cb262aa8e33fe40e4cfafaaa91944073a21e9b32.css?body=1&livereload=1537230538726&livereload=1537230040419" for ::1 at 2018-09-17 17:28:58 -0700
+Started GET "/assets/application.self-418590e09e46663ac9d563f1cb262aa8e33fe40e4cfafaaa91944073a21e9b32.css?body=1&livereload=1537230538727&livereload=1537230040419" for ::1 at 2018-09-17 17:28:58 -0700
+Started GET "/" for ::1 at 2018-09-17 17:29:01 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.4ms)
+  Rendered shared/_main_nav.html.erb (4.2ms)
+  Rendered shared/_masthead.html.erb (0.5ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.4ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (39.2ms)
+Completed 200 OK in 105ms (Views: 91.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-147f1df2443c17f0b6d3fd81b5d95cc0a96bdc63b11f0c2e5e2791b4e22c40af.css?body=1" for ::1 at 2018-09-17 17:29:02 -0700
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 17:29:02 -0700
+Started GET "/assets/application.self-147f1df2443c17f0b6d3fd81b5d95cc0a96bdc63b11f0c2e5e2791b4e22c40af.css?body=1&livereload=1537230566021" for ::1 at 2018-09-17 17:29:26 -0700
+Started GET "/assets/application.self-147f1df2443c17f0b6d3fd81b5d95cc0a96bdc63b11f0c2e5e2791b4e22c40af.css?body=1&livereload=1537230566024" for ::1 at 2018-09-17 17:29:26 -0700
+Started GET "/assets/application.self-147f1df2443c17f0b6d3fd81b5d95cc0a96bdc63b11f0c2e5e2791b4e22c40af.css?body=1&livereload=1537230570357" for ::1 at 2018-09-17 17:29:30 -0700
+Started GET "/assets/application.self-147f1df2443c17f0b6d3fd81b5d95cc0a96bdc63b11f0c2e5e2791b4e22c40af.css?body=1&livereload=1537230570358" for ::1 at 2018-09-17 17:29:30 -0700
+Started GET "/" for ::1 at 2018-09-17 17:29:34 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.5ms)
+  Rendered shared/_main_nav.html.erb (4.4ms)
+  Rendered shared/_masthead.html.erb (0.7ms)
+  Rendered shared/_sections_nav.html.erb (0.5ms)
+  Rendered shared/_search_modal.html.erb (0.6ms)
+  Rendered shared/_main_content.html.erb (0.4ms)
+  Rendered static_pages/index.html.erb within layouts/application (22.9ms)
+Completed 200 OK in 65ms (Views: 61.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 17:29:34 -0700
+Started GET "/assets/application.self-f745b1546a7bb81d72a7bf983d772624e80906ba91eb4557eb97867204b105b3.css?body=1" for ::1 at 2018-09-17 17:29:34 -0700
+Started GET "/assets/application.self-f745b1546a7bb81d72a7bf983d772624e80906ba91eb4557eb97867204b105b3.css?body=1&livereload=1537230590872" for ::1 at 2018-09-17 17:29:50 -0700
+Started GET "/assets/application.self-f745b1546a7bb81d72a7bf983d772624e80906ba91eb4557eb97867204b105b3.css?body=1&livereload=1537230590874" for ::1 at 2018-09-17 17:29:50 -0700
+Started GET "/assets/application.self-f745b1546a7bb81d72a7bf983d772624e80906ba91eb4557eb97867204b105b3.css?body=1&livereload=1537230591443" for ::1 at 2018-09-17 17:29:51 -0700
+Started GET "/assets/application.self-f745b1546a7bb81d72a7bf983d772624e80906ba91eb4557eb97867204b105b3.css?body=1&livereload=1537230591446" for ::1 at 2018-09-17 17:29:51 -0700
+Started GET "/assets/application.self-f745b1546a7bb81d72a7bf983d772624e80906ba91eb4557eb97867204b105b3.css?body=1&livereload=1537230591895" for ::1 at 2018-09-17 17:29:51 -0700
+Started GET "/assets/application.self-f745b1546a7bb81d72a7bf983d772624e80906ba91eb4557eb97867204b105b3.css?body=1&livereload=1537230591897" for ::1 at 2018-09-17 17:29:51 -0700
+Started GET "/assets/application.self-f745b1546a7bb81d72a7bf983d772624e80906ba91eb4557eb97867204b105b3.css?body=1&livereload=1537230592536" for ::1 at 2018-09-17 17:29:52 -0700
+Started GET "/assets/application.self-f745b1546a7bb81d72a7bf983d772624e80906ba91eb4557eb97867204b105b3.css?body=1&livereload=1537230592537" for ::1 at 2018-09-17 17:29:52 -0700
+Started GET "/assets/application.self-f745b1546a7bb81d72a7bf983d772624e80906ba91eb4557eb97867204b105b3.css?body=1&livereload=1537230593548" for ::1 at 2018-09-17 17:29:53 -0700
+Started GET "/assets/application.self-f745b1546a7bb81d72a7bf983d772624e80906ba91eb4557eb97867204b105b3.css?body=1&livereload=1537230593550" for ::1 at 2018-09-17 17:29:53 -0700
+Started GET "/" for ::1 at 2018-09-17 17:29:56 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.5ms)
+  Rendered shared/_main_nav.html.erb (4.3ms)
+  Rendered shared/_masthead.html.erb (0.7ms)
+  Rendered shared/_sections_nav.html.erb (0.6ms)
+  Rendered shared/_search_modal.html.erb (0.6ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (24.5ms)
+Completed 200 OK in 70ms (Views: 66.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-eafec994a89537ebe472775cf0b740ccebe894a259b4bee8a9037e4570e8d8bb.css?body=1" for ::1 at 2018-09-17 17:29:56 -0700
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 17:29:56 -0700
+Started GET "/assets/application.self-eafec994a89537ebe472775cf0b740ccebe894a259b4bee8a9037e4570e8d8bb.css?body=1&livereload=1537230630474" for ::1 at 2018-09-17 17:30:30 -0700
+Started GET "/assets/application.self-eafec994a89537ebe472775cf0b740ccebe894a259b4bee8a9037e4570e8d8bb.css?body=1&livereload=1537230630477" for ::1 at 2018-09-17 17:30:30 -0700
+Started GET "/" for ::1 at 2018-09-17 17:30:42 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.5ms)
+  Rendered shared/_main_nav.html.erb (5.3ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.4ms)
+  Rendered shared/_search_modal.html.erb (0.3ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (20.2ms)
+Completed 200 OK in 50ms (Views: 46.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-eec293d5f711d9b16dbe63cb62b94bdba91684b0a85cc69e80d03a523891011e.css?body=1" for ::1 at 2018-09-17 17:30:42 -0700
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 17:30:42 -0700
+Started GET "/assets/application.self-eec293d5f711d9b16dbe63cb62b94bdba91684b0a85cc69e80d03a523891011e.css?body=1&livereload=1537230783331" for ::1 at 2018-09-17 17:33:03 -0700
+Started GET "/assets/application.self-eec293d5f711d9b16dbe63cb62b94bdba91684b0a85cc69e80d03a523891011e.css?body=1&livereload=1537230783334" for ::1 at 2018-09-17 17:33:03 -0700
+Started GET "/" for ::1 at 2018-09-17 17:33:04 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_gear_dropdown.html.erb (0.4ms)
+  Rendered shared/_main_nav.html.erb (3.8ms)
+  Rendered shared/_masthead.html.erb (0.4ms)
+  Rendered shared/_sections_nav.html.erb (0.6ms)
+  Rendered shared/_search_modal.html.erb (0.5ms)
+  Rendered shared/_main_content.html.erb (0.3ms)
+  Rendered static_pages/index.html.erb within layouts/application (71.4ms)
+Completed 200 OK in 176ms (Views: 173.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-794bbc2832ddc602eb98e116d57dc7d922beaabc29e559b9feae1a949c948998.css?body=1" for ::1 at 2018-09-17 17:33:04 -0700
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2018-09-17 17:33:04 -0700
+Started GET "/assets/application.self-794bbc2832ddc602eb98e116d57dc7d922beaabc29e559b9feae1a949c948998.css?body=1&livereload=1537230806525" for ::1 at 2018-09-17 17:33:26 -0700
+Started GET "/assets/application.self-794bbc2832ddc602eb98e116d57dc7d922beaabc29e559b9feae1a949c948998.css?body=1&livereload=1537230806526" for ::1 at 2018-09-17 17:33:26 -0700
